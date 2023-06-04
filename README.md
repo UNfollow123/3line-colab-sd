@@ -36,7 +36,7 @@
 ### 安装指定github repo的模板
 你可以通过fork本项目,或者自己建立github项目来存储你的模板文件.
 ```
-!bash <(curl -sL https://raw.githubusercontent.com/AI-skimos/3line-colab-sd/master/all.sh) -l https://github.com/xxx/yyy -n example-template
+!bash <(curl -sL https://raw.githubusercontent.com/AI-skimos/3line-colab-sd/master/all.sh) -l https://github.com/UNfollow123/3line-colab-sd.git -n example-template
 ```
 该命令会克隆https://github.com/xxx/yyy 项目并使用其中的example-template目录下的模板文件。
 
